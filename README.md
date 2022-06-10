@@ -35,8 +35,9 @@ export PATH=~/your_path:”$PATH”
 ### Its usage and results is as below.
 #### When 'example' is not in the server.
 #### <pre>
+<code>
 pi@raspberrypi:~/workspace $ file_explore example
-
+</code>
 example does not exist.
 </pre>
 
