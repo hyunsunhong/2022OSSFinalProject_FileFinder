@@ -5,11 +5,11 @@
 ### How to build:question:
 #### Run 'make' to build 'file_finder' file.
 #### If it succesfully build, result will be as below. <pre>
-pi@raspberrypi:~/worksapce/ $ make
-gcc concat_function.c -c -o concat_function.o
-gcc explore_function.c -c -o explore_function.o
-gcc main.c -c -o main.o
-gcc concat_function.o explore_function.o main.o -o file_explore
+pi@raspberrypi:~/worksapce/ $ make<\br>
+gcc concat_function.c -c -o concat_function.o<\br>
+gcc explore_function.c -c -o explore_function.o<\br>
+gcc main.c -c -o main.o<\br>
+gcc concat_function.o explore_function.o main.o -o file_explore<\br>
 </pre>
 
 ### How to use:question:
