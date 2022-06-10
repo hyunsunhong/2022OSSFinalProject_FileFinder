@@ -8,7 +8,7 @@
 #### Run 'make' to build 'file_finder' file.
 #### If it succesfully build, result will be as below. 
 
-<code>
+##### <code>
 ##### pi@raspberrypi:~/worksapce/ $ make
 ##### gcc concat_function.c -c -o concat_function.o
 ##### gcc explore_function.c -c -o explore_function.o
@@ -32,15 +32,14 @@
 #### Let's assume we want to find file called 'example'.
 ### Its usage and results is as below.
 #### When 'example' is not in the server.
-#### 
-<code>
+#### <code>
 pi@raspberrypi:~/workspace $ file_explore example
 </code>
 #### example does not exist.
 
 
 ### When 'example' is in the server.
-### <code> 
+#### <code> 
 pi@raspberrypi:~/workspace/ $ file_explore example
 /home/pi/Desktop/workspace/dir1/dir2/example
 </code>
