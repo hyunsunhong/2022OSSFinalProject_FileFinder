@@ -30,16 +30,15 @@
 
 
 #### Let's assume we want to find file called 'example'.
-### Its usage and results is as below.
-#### When 'example' is not in the server.
-#### <code>
+##### Its usage and results is as below.
+##### When 'example' is not in the server.
+##### <code>
 pi@raspberrypi:~/workspace $ file_explore example
 </code>
-#### example does not exist.
 
 
-### When 'example' is in the server.
-#### <code> 
+##### When 'example' is in the server.
+##### <code> 
 pi@raspberrypi:~/workspace/ $ file_explore example
 /home/pi/Desktop/workspace/dir1/dir2/example
 </code>
