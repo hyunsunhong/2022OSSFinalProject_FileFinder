@@ -11,6 +11,10 @@
 
 
 
+
+
+
+
 ### How to build:question:
 #### Run 'make' to build 'file_finder' file.
 #### If it succesfully build, result will be as below. 
@@ -22,7 +26,6 @@
 ##### gcc main.c -c -o main.o
 ##### gcc concat_function.o explore_function.o main.o -o file_explore
 </code>
-
 
 
 
