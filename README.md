@@ -1,5 +1,6 @@
-# 2022OSSFinalProject_FileFinderappended
+# Welcome!
+### This repository includes source codes for filefinder for linux.
 
-!
-Second trial
-#hi there!
+
+##How to use
+### First 
