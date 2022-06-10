@@ -1,6 +1,11 @@
 # FileExplore :mag_right:
 # This repository includes source codes for filefinder for linux.
 
+### How did I implemented? :question:
+#### The key idea is DFS!
+#### Strting from home directory, it recursively search for given file name.
+#### The dfs fucntion is as belwow.
+
 
 
 
