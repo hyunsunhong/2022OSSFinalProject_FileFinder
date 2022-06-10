@@ -8,13 +8,9 @@
 #### Run 'make' to build 'file_finder' file.
 #### If it succesfully build, result will be as below. <code>
 pi@raspberrypi:~/worksapce/ $ make
-
 gcc concat_function.c -c -o concat_function.o
-
 gcc explore_function.c -c -o explore_function.o
-
 gcc main.c -c -o main.o
-
 gcc concat_function.o explore_function.o main.o -o file_explore
 </code>
 
@@ -38,7 +34,7 @@ export PATH=~/your_path:”$PATH”
 <code>
 pi@raspberrypi:~/workspace $ file_explore example
 </code>
-example does not exist.
+#### example does not exist.
 
 
 ### When 'example' is in the server.
