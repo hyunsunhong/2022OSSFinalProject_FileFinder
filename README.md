@@ -8,7 +8,7 @@
 #### Run 'make' to build 'file_finder' file.
 #### If it succesfully build, result will be as below. 
 
-##### <code>
+<code>
 ##### pi@raspberrypi:~/worksapce/ $ make
 ##### gcc concat_function.c -c -o concat_function.o
 ##### gcc explore_function.c -c -o explore_function.o
