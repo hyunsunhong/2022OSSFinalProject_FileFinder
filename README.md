@@ -5,13 +5,11 @@ This project aims to make a program that search for specific file in the Linux.
 ## Getting Started
 
 ```
-##### <code>
-##### pi@raspberrypi:~/worksapce/ $ make
-##### gcc concat_function.c -c -o concat_function.o
-##### gcc explore_function.c -c -o explore_function.o
-##### gcc main.c -c -o main.o
-##### gcc concat_function.o explore_function.o main.o -o file_explore
-</code>
+pi@raspberrypi:~/worksapce/ $ make
+gcc concat_function.c -c -o concat_function.o
+gcc explore_function.c -c -o explore_function.o
+gcc main.c -c -o main.o
+gcc concat_function.o explore_function.o main.o -o file_explore
 ```
 
 ### Installing
