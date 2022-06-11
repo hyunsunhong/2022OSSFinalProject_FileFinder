@@ -3,7 +3,8 @@
 This project aims to make a program that search for specific file in the Linux.
 It's just like Finder in Mac.
 
-![image](https://user-images.githubusercontent.com/103620676/173172887-78fb0918-b25b-4473-beca-ab2f98e1ee65.png)
+![스크린샷 2022-06-11 오후 2 09 48](https://user-images.githubusercontent.com/103620676/173173679-09e99a98-7c17-4547-9360-ad6f8ce4dce2.png)
+
 
 
 
