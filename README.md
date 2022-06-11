@@ -1,6 +1,10 @@
 # File Explorer :mag_right:
 
 This project aims to make a program that search for specific file in the Linux.
+It's just like Finder in Mac.
+
+![image](https://user-images.githubusercontent.com/103620676/173172887-78fb0918-b25b-4473-beca-ab2f98e1ee65.png)
+
 
 ## Getting Started
 
