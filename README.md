@@ -1,5 +1,8 @@
 # File Explorer :mag_right:
 
+## Presentation
+https://www.youtube.com/watch?v=JPlFmkL-6EQ
+
 This project aims to make a program that search for specific file in the Linux.
 It's just like Finder in Mac.
 
@@ -58,6 +61,3 @@ example does not exist.
 ## Question:question:
 Email me. 21800797@handong.ac.kr
 
-
-## Presentation
-https://www.youtube.com/watch?v=JPlFmkL-6EQ
