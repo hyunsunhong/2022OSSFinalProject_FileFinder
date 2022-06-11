@@ -4,28 +4,13 @@ This project aims to make a program that search for specific file in the Linux.
 
 ## Getting Started
 
+Clone it and just 'make' it!
 ```
 pi@raspberrypi:~/worksapce/ $ make
 gcc concat_function.c -c -o concat_function.o
 gcc explore_function.c -c -o explore_function.o
 gcc main.c -c -o main.o
 gcc concat_function.o explore_function.o main.o -o file_explore
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
