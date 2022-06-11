@@ -21,7 +21,7 @@ gcc concat_function.o explore_function.o main.o -o file_explore
 
 Then, to make this file executable in anywhere, modify environment variable.
 ```
-export PATH=~/path_where_File_Exists: ”$PATH”
+export PATH=~/path_where_File_Exists:”$PATH”
 . ~/.bashrc
 ```
 :exclamation: Note that if desktop is restarted, you should do above procedure again!
