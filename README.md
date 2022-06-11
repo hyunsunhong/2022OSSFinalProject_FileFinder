@@ -1,12 +1,15 @@
 # File Explorer :mag_right:
 
-## Presentation
-https://www.youtube.com/watch?v=JPlFmkL-6EQ
-
 This project aims to make a program that search for specific file in the Linux.
 It's just like Finder in Mac.
 
 ![스크린샷 2022-06-11 오후 2 09 48](https://user-images.githubusercontent.com/103620676/173173679-09e99a98-7c17-4547-9360-ad6f8ce4dce2.png)
+
+
+
+
+## Presentation
+https://www.youtube.com/watch?v=JPlFmkL-6EQ
 
 
 
